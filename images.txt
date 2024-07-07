@@ -5,3 +5,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 DDS-Derek/xiaoya-alist
 TheAlgorithms/Python
+AdguardTeam/AdGuardHome
